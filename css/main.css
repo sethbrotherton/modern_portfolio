@@ -373,4 +373,9 @@ main#home h1 {
   .projects {
     grid-template-columns: repeat(1, 1fr);
   }
+  h1.lg-heading,
+  h2.lg-heading,
+  h3.lg-heading {
+    font-size: 4rem;
+  }
 }
